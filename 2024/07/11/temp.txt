@@ -1,0 +1,111 @@
+// class Solution {
+// private int[] parenthesesLoc = new int[2000];
+// private int parenthesesCount = 0;
+// private char[] ans;
+// private String ansStr = new String();
+
+// public String reverseParentheses(String s) {
+
+// // locate all parentheses
+// for (int i = 0; i < s.length(); i++) {
+// if (s.charAt(i) == '(' || s.charAt(i) == ')') {
+// parenthesesLoc[parenthesesCount] = i;
+// parenthesesCount++;
+// }
+// }
+// ans = new char[s.length() - parenthesesCount];
+
+// int count = 0;
+// int loc = parenthesesLoc[count];
+// int charCount = 1;
+// int forwardCount = 0;
+// for (int i = 0; i < s.length(); i++) {
+
+// if (i < loc) {
+// charCount++;
+// switch (count % 2) {
+// case 0:
+// if (count != parenthesesCount) {
+// int leftOver = parenthesesLoc[parenthesesCount - count + 1]
+// - parenthesesLoc[parenthesesCount - count] - 1;
+// ans[forwardCount + leftOver + charCount - 1] = s.charAt(i);
+// } else {
+// ans[forwardCount + charCount - 1] = s.charAt(i);
+// }
+// forwardCount++;
+// break;
+// case 1:
+// int end = parenthesesLoc[parenthesesCount - count];
+// ans[end - charCount - (parenthesesCount - count)] = s.charAt(i);
+// break;
+// default:
+// break;
+// }
+// } else if (i == loc) {
+// charCount = 0;
+// count++;
+// loc = parenthesesLoc[count];
+// }
+// }
+// for (int i = 0; i < ans.length; i++) {
+// ansStr += Character.toString(ans[i]);
+// }
+// return ansStr;
+// }
+// }
+
+
+==============================================================
+
+// class Solution {
+// private ArrayList<Integer> parenthesesLoc = new ArrayList<>();
+// private String reverseOrder = new String();
+// private String ans = new String();
+
+// public String reverseParentheses(String s) {
+// for (int i = 0; i < s.length(); i++) {
+// if (s.charAt(i) == '(' || s.charAt(i) == ')') {
+// parenthesesLoc.add(i);
+// }
+// reverseOrder += s.charAt(s.length() - i - 1);
+// }
+// if (parenthesesLoc.size() == 0) {
+// return s;
+// }
+
+// int parenthesesCount = 1;
+// if (parenthesesLoc.get(0) != 0) {
+// ans += s.substring(0, parenthesesLoc.get(0));
+// parenthesesCount = 1;
+// }
+// while (parenthesesCount != parenthesesLoc.size()) {
+// switch (parenthesesCount % 2) {
+// case 0:
+// int fStart = parenthesesLoc.get(parenthesesCount - 1);
+// int fEnd = parenthesesLoc.get(parenthesesCount);
+// if (s.substring(fStart + 1, fEnd) != null) {
+// ans += s.substring(fStart + 1, fEnd);
+// }
+// parenthesesCount++;
+// break;
+// case 1:
+// int rStart = s.length() - parenthesesLoc.get(parenthesesLoc.size() -
+// parenthesesCount);
+// int rEnd = s.length() - parenthesesLoc.get(parenthesesLoc.size() -
+// parenthesesCount - 1);
+// if (reverseOrder.substring(rStart, rEnd - 1) != null) {
+// ans += reverseOrder.substring(rStart, rEnd - 1);
+// }
+// parenthesesCount++;
+// break;
+// default:
+// break;
+// }
+// }
+// if (parenthesesLoc.get(parenthesesLoc.size() - 1) != s.length()) {
+// ans += s.substring(parenthesesLoc.get(parenthesesLoc.size() - 1) + 1);
+// }
+// return ans;
+// }
+
+// }

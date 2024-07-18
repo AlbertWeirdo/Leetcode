@@ -1,0 +1,30 @@
+class Solution {
+    private List<TreeNode> ans = new ArrayList<>();
+    private boolean determineAdd = true;
+
+    public List<TreeNode> delNodes(TreeNode root, int[] to_delete) {
+        List toDelete = Arrays.asList(to_delete);
+        reBuildTree(root, toDelete);
+        return ans;
+    }
+
+    private TreeNode reBuildTree(TreeNode root, List toDeleteList) {
+        if (root != null && !toDeleteList.contains(root)) {
+            if (determineAdd == true) {
+                ans.add(root);
+                determineAdd = false;
+            }
+            if (reBuildTree(root.left, toDeleteList) != null) {
+                root.left = reBuildTree(root.left, toDeleteList);
+                return root;
+            } else if (reBuildTree(root.right, toDeleteList) != null) {
+                root.right = reBuildTree(root.right, toDeleteList);
+                return root;
+            }
+
+        }
+        determineAdd = true;
+        return null;
+
+    }
+}
