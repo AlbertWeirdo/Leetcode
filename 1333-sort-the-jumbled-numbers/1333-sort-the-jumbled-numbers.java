@@ -1,44 +1,31 @@
 class Solution {
-    private HashMap<Integer,HashSet<Integer>> map=new HashMap<>();
-
-    private int[] ans;
     public int[] sortJumbled(int[] mapping, int[] nums) {
+        // Step 1: Create a list to store original nums and their mapped values
+        List<int[]> mappedList = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            String s = Integer.toString(nums[i]);
+            StringBuilder n = new StringBuilder();
+            for (char ch : s.toCharArray()) {
+                n.append(mapping[ch - '0']);
+            }
+            mappedList.add(new int[]{nums[i], Integer.parseInt(n.toString()), i});
+        }
 
-        ans=new int[nums.length];
-        for (int i=0;i<nums.length;i++){
-            int newValue=0;
-            int num=nums[i];
-            int digit=1;
-            if (num==0){
-                newValue=mapping[0];
-            }else{
-                while (num>0){
-                    newValue+=mapping[num%10]*digit;
-                    num/=10;
-                    digit*=10;
-                }
+        // Step 2: Sort the list based on the mapped values and original indices for stability
+        mappedList.sort((a, b) -> {
+            if (a[1] != b[1]) {
+                return Integer.compare(a[1], b[1]);
+            } else {
+                return Integer.compare(a[2], b[2]);
             }
-   
-            if (map.containsKey(newValue)){
-                HashSet<Integer> set=map.get(newValue);
-                set.add(i);
-                map.put(newValue, set);
-            }else{
-                HashSet<Integer> set=new HashSet<>();
-                set.add(i);
-                map.put(newValue, set);
-            }
+        });
+
+        // Step 3: Create a result array and fill it with the sorted original nums
+        int[] sortedNums = new int[nums.length];
+        for (int i = 0; i < mappedList.size(); i++) {
+            sortedNums[i] = mappedList.get(i)[0];
         }
-        ArrayList<Integer> list=new ArrayList<>(map.keySet());
-        Collections.sort(list);
-        int count=0;
-        for (int i:list){
-            HashSet<Integer> set=map.get(i);
-            for (int j:set){
-                ans[count]=nums[j];
-                count++;
-            }
-        }
-        return ans;
+
+        return sortedNums;
     }
 }
