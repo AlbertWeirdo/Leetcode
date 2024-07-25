@@ -1,24 +1,31 @@
-class Solution {
-    public int[] sortArray(int[] nums) {
-        int[] arr = new int[100001];
-        int max = Integer.MIN_VALUE, min = Integer.MAX_VALUE;
-        int x = 0;
-        for (int i : nums) {
-            x = 50000 + i;
-            arr[x]++;
-            if (min > x)
-                min = x;
-            if (max < x)
-                max = x;
+class Solution{
+    public int[] sortArray(int[] nums){
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
+        int[] occurrence=new int[100001];
+        int valAfterMapping=0;
+        
+        for (int i:nums){
+            valAfterMapping=50000+i;
+            if (valAfterMapping>max){
+                max=valAfterMapping;
+            }if (valAfterMapping<min){
+                min=valAfterMapping;
+            }
+            occurrence[valAfterMapping]++;
         }
-        int k = nums.length - 1, n = k + 1;
-        for (int i = max; i >= min; i--) {
-            if (arr[i] == 0)
+        int length=nums.length-1;
+        for (int i=max;i>=min;i--){
+            if (occurrence[i]==0){
                 continue;
-            int len = arr[i];
-            while (len-- > 0)
-                nums[k--] = i - 50000;
+            }
+            int occurrenceLength=occurrence[i];
+            while (occurrenceLength-->0){
+                nums[length--]=(i-50000);
+            }
+            
         }
         return nums;
     }
 }
+
