@@ -23,6 +23,7 @@
 | [0948-sort-an-array](https://github.com/AlbertWeirdo/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AlbertWeirdo/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/AlbertWeirdo/Leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AlbertWeirdo/Leetcode/tree/master/0948-sort-an-array) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AlbertWeirdo/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Merge Sort
 |  |
 | ------- |
@@ -73,8 +75,10 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AlbertWeirdo/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/AlbertWeirdo/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
