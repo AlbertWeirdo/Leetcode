@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/AlbertWeirdo/Leetcode/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/AlbertWeirdo/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -12,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/AlbertWeirdo/Leetcode/tree/master/2502-sort-the-people) |
 ## String
@@ -21,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/AlbertWeirdo/Leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -66,6 +69,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -92,4 +96,8 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
