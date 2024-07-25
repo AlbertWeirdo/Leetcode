@@ -107,9 +107,11 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AlbertWeirdo/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AlbertWeirdo/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/AlbertWeirdo/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AlbertWeirdo/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
