@@ -9,6 +9,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/AlbertWeirdo/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/AlbertWeirdo/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AlbertWeirdo/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/AlbertWeirdo/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/AlbertWeirdo/Leetcode/tree/master/1803-average-waiting-time) |
@@ -154,4 +155,8 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AlbertWeirdo/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AlbertWeirdo/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AlbertWeirdo/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AlbertWeirdo/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
