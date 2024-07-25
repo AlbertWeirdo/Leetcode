@@ -104,4 +104,12 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AlbertWeirdo/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AlbertWeirdo/Leetcode/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AlbertWeirdo/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
