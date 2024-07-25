@@ -6,6 +6,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/AlbertWeirdo/Leetcode/tree/master/0948-sort-an-array) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AlbertWeirdo/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/AlbertWeirdo/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1720-crawler-log-folder](https://github.com/AlbertWeirdo/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AlbertWeirdo/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AlbertWeirdo/Leetcode/tree/master/2502-sort-the-people) |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AlbertWeirdo/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlbertWeirdo/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -75,6 +78,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AlbertWeirdo/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlbertWeirdo/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -88,6 +92,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/AlbertWeirdo/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AlbertWeirdo/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
