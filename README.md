@@ -10,6 +10,7 @@
 | [1293-three-consecutive-odds](https://github.com/AlbertWeirdo/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AlbertWeirdo/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AlbertWeirdo/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/AlbertWeirdo/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/AlbertWeirdo/Leetcode/tree/master/1803-average-waiting-time) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AlbertWeirdo/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AlbertWeirdo/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AlbertWeirdo/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -159,4 +161,5 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AlbertWeirdo/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AlbertWeirdo/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
