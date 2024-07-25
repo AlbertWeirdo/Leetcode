@@ -9,6 +9,7 @@
 | [1293-three-consecutive-odds](https://github.com/AlbertWeirdo/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1803-average-waiting-time](https://github.com/AlbertWeirdo/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlbertWeirdo/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/AlbertWeirdo/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/AlbertWeirdo/Leetcode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/AlbertWeirdo/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlbertWeirdo/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/AlbertWeirdo/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Recursion
