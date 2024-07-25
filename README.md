@@ -61,6 +61,7 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -79,6 +80,15 @@
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1916-find-center-of-star-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AlbertWeirdo/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AlbertWeirdo/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
