@@ -12,12 +12,14 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/AlbertWeirdo/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AlbertWeirdo/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AlbertWeirdo/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlbertWeirdo/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AlbertWeirdo/Leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AlbertWeirdo/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AlbertWeirdo/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Greedy
 |  |
 | ------- |
