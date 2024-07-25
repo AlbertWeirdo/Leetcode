@@ -20,9 +20,9 @@ class Solution{
                 continue;
             }
             int occurrenceLength=occurrence[i];
-            while (occurrenceLength-->0){
+            while (occurrenceLength>0){
                 nums[length--]=(i-50000);
-                
+                occurrenceLength--;
             }
         }
         return nums;
