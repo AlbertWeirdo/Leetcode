@@ -10,6 +10,7 @@
 | [1293-three-consecutive-odds](https://github.com/AlbertWeirdo/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AlbertWeirdo/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AlbertWeirdo/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/AlbertWeirdo/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AlbertWeirdo/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/AlbertWeirdo/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AlbertWeirdo/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -162,4 +163,12 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AlbertWeirdo/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AlbertWeirdo/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/AlbertWeirdo/Leetcode/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/AlbertWeirdo/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
